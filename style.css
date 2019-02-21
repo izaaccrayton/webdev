@@ -1,0 +1,16 @@
+h1 {
+    color: #f4511e;
+}
+
+#purpletext {
+    color: #9575cd
+}
+
+.bettertext {
+    color: darkred;
+    font-family: cursive;
+}
+
+#bg_list {
+    background-color: azure;
+}
